@@ -18,6 +18,7 @@ Predecir los barrios de Madrid que, en los próximos meses, tendrán una contami
 -	Se toman los datos como una serie temporal y se hace una primera predicción con suavizado Holt-Winters y un modelo ARIMA, que no es buena.
 -	Se transforman los datos con tal de que puedan pasarse a modelos de machine learning.
 -	Se codifica una selección automática de modelos para cada uno de los barrios y se obtiene una predicción de los próximos 6 meses buena para 21 de ellos (r2 positiva y error medio absoluto menor a un decibelio). Esta es la predicción de prueba con los últimos meses conocidos:
+-	<img src="/Contaminacion_acustica/tree/main/src/data/images/1.png" width="1000">
 -	Estas son las predicciones a futuro de los 21 barrios si se observa el período completo:
 -	A continuación, se obtiene una predicción buena de los próximos 3 meses para otros tres barrios. Esta es la predicción de prueba con los últimos meses conocidos:
 -	Estas son las predicciones a futuro de los 3 barrios si se observa el período completo:
