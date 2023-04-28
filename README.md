@@ -27,13 +27,13 @@ Predecir los barrios de Madrid que, en los próximos meses, tendrán una contami
 
 -	A continuación, se obtiene una predicción buena de los próximos 3 meses para otros tres barrios. Esta es la predicción de prueba con los últimos meses conocidos:
 
-<img src="/src/data/images/2.png" width="500">
+<img src="/src/data/images/3.png" width="500">
 
 -	Estas son las predicciones a futuro de los 3 barrios si se observa el período completo:
 
-<img src="/src/data/images/2.png" width="500">
+<img src="/src/data/images/4.png" width="500">
 
 -	Según el estándar de la OMS, una contaminación mayor de 60 decibelios causa molestias a las personas, y más de 65 se traducen en trastornos de personalidad. Por tanto, podemos decir que entre 60 y 65 habría molestias serias. De los barrios predichos, 14 entran en esa categoría. Esta son sus ubicaciones:
 
-<img src="/src/data/images/2.png" width="500">
+<img src="/src/data/images/5.png" width="500">
 
