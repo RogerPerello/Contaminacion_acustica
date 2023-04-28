@@ -2,8 +2,8 @@
 
 ## Objetivo:
 Predecir los barrios de Madrid que, en los próximos meses, tendrán una contaminación acústica excesiva. Esto se hace por dos razones:
-1. Decidir dónde poner los patinetes, pues una mayor contaminación supone más tráfico, y, por tanto, una necesidad creciente de un transporte alternativo.
-2. Conseguir que el Ayuntamiento nos permita ubicar nuestra flota en cerca de los puntos señalados. La legislación en esta materia es volátil e impredecible. A finales de 2022, el número de licencias se redujo un 40%. Por tanto, es bueno disponer de argumentos como este, que nos ayuden a justificar nuestra presencia y ganarnos el favor de las autoridades.
+1. Decidir donde ponemos la flota inicial de una app de patinetes. Una mayor contaminación supone más tráfico, y, por tanto, una necesidad creciente de un transporte alternativo.
+2. Conseguir que el Ayuntamiento nos permita disponer de una flota mayor. La legislación en esta materia es volátil e impredecible. A finales de 2022, el número de licencias se redujo un 40%. Por tanto, es bueno disponer de argumentos como este, que nos ayuden a justificar nuestra presencia y ganarnos el favor de las autoridades.
 
 ## Fuentes:
 - [Histórico de contaminación acústica](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=2ec892874870b410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
