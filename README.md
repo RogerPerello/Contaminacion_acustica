@@ -1,4 +1,4 @@
-# Contaminacion_acustica
+# Contaminacion acústica
 
 Objetivo:
 Predecir los barrios de Madrid que, en los próximos meses, tendrán una contaminación acústica excesiva. Esto se hace por dos razones:
